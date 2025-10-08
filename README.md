@@ -11,4 +11,4 @@ Ce dépôt me permet de présenter l’ensemble de mes réalisations professionn
 - Résumé de projet 
 
 ## 📧 Contact
-yannicktchoukouani@gmail.com (mailto:ton.email@exemple.com)
+yannicktchoukouani@gmail.com
